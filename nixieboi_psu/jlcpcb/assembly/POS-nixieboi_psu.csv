@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,680p,C_0603_1608Metric,92.5,-74.5,180.0,top
+C3,10n,C_0603_1608Metric,136.0,-66.0,180.0,top
+D1,D,D_SMA,124.5,-65.0,180.0,top
+D2,1N4148,D_SOD-123,106.75,-64.0,-90.0,top
+Q2,PNP,SOT-23,102.25,-63.25,180.0,top
+R1,13k,R_0603_1608Metric,137.5,-68.5,-90.0,top
+R2,1K,R_0603_1608Metric,102.25,-67.0,180.0,top
+R3,390k,R_0603_1608Metric,131.5,-68.5,-90.0,top
+R4,470k,R_0603_1608Metric,131.5,-65.0,-90.0,top
+R5,9.1k,R_0603_1608Metric,134.5,-68.5,-90.0,top
+U1,MC34063AD,SOIC-8_3.9x4.9mm_P1.27mm,94.5,-69.0,0.0,top
